@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ayesh Butt\\Projects\\testing\\testing.api\\testing.api.csproj": {}
+    "C:\\Users\\INV-01\\source\\repos\\bila\\test-api-repo\\testing.api.csproj": {}
   },
   "projects": {
-    "D:\\Ayesh Butt\\Projects\\testing\\testing.api\\testing.api.csproj": {
+    "C:\\Users\\INV-01\\source\\repos\\bila\\test-api-repo\\testing.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ayesh Butt\\Projects\\testing\\testing.api\\testing.api.csproj",
+        "projectUniqueName": "C:\\Users\\INV-01\\source\\repos\\bila\\test-api-repo\\testing.api.csproj",
         "projectName": "testing.api",
-        "projectPath": "D:\\Ayesh Butt\\Projects\\testing\\testing.api\\testing.api.csproj",
-        "packagesPath": "C:\\Users\\INV-02\\.nuget\\packages\\",
-        "outputPath": "D:\\Ayesh Butt\\Projects\\testing\\testing.api\\obj\\",
+        "projectPath": "C:\\Users\\INV-01\\source\\repos\\bila\\test-api-repo\\testing.api.csproj",
+        "packagesPath": "C:\\Users\\INV-01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INV-01\\source\\repos\\bila\\test-api-repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\INV-02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INV-01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

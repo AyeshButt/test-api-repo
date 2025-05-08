@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "1xkjC1yg2Q8=",
-  "success": true,
-  "projectFilePath": "D:\\Ayesh Butt\\Projects\\testing\\testing.api\\testing.api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\INV-02\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
-    "C:\\Users\\INV-02\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "HiUM/1GwoUE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\INV-01\\source\\repos\\bila\\test-api-repo\\testing.api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.\r\n  An existing connection was forcibly closed by the remote host",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
 }
