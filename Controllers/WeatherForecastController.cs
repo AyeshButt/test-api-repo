@@ -8,7 +8,7 @@ namespace testing.api.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "chomo is a bitch Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "ayesh kanjar is a bitch Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
