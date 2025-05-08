@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testing.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c7071180484debbb067287ccd42cfeef09025e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04816773e57e66556d3e876c998bc518609d946")]
 [assembly: System.Reflection.AssemblyProductAttribute("testing.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testing.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
